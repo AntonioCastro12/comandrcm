@@ -1,0 +1,8 @@
+{
+  "name": "ComandaRCM- Comanda Móvil & KDS Cocina",
+  "description": "Microapp ágil para meseros y cocina con comandas en tiempo real, gestión de productos y perfiles de mesero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
